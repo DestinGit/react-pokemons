@@ -110,3 +110,4 @@ export const POKEMONS: Pokemon[] = [
         created: new Date()
        }
 ];
+
